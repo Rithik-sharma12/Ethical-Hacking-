@@ -1,6 +1,6 @@
 # Ethical Hacking 🚀
 
-![Ethical Hacking](https://www.example.com/your-image-url.png)
+![Ethical Hacking](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.axximuminfosolutions.com%2Fethical-hacking%2Funderstanding-the-ethical-hacking-mindset%2F&psig=AOvVaw3ZaLGjnaUPy3QRmVxjwdWF&ust=1741456381648000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCIDd0eHE-IsDFQAAAAAdAAAAABAE)
 
 ## Introduction
 Welcome to the **Ethical Hacking** repository! This project is dedicated to exploring various aspects of ethical hacking, cybersecurity, and penetration testing. It aims to provide valuable resources, tutorials, and tools for anyone interested in learning about ethical hacking and improving their cybersecurity skills.
@@ -35,7 +35,7 @@ We welcome contributions from the community! To contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact 📧
-For any questions or feedback, please reach out to us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please reach out to us at [rithiksharmacse@gmail.com](mailto:rithiksharmacse@gmail.com).
 
 ![Stay Secure](https://www.example.com/another-image-url.png)
 
